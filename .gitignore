@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+#/build não ignorar no push
 
 # misc
 .DS_Store
